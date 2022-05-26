@@ -832,7 +832,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 body {
-  background-image: url("../img/bg-tablet-pattern.svg");
+  background-image: url("../mg/bg-tablet-pattern.svg");
   background-repeat: no-repeat;
   background-size: 800px;
   background-position: 90% -25%;
